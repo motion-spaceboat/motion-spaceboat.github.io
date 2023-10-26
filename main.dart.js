@@ -29027,14 +29027,14 @@ _.a=a
 _.b=b
 _.c=c
 _.d=d},
-aTJ(a){var s="http://localhost:8080"
+aTJ(a){var s="http://localhost:8080",r="https://motion-vapor-6dc98add1063.herokuapp.com/"
 switch(a.a){case 0:$.o6=$.o7=s
 break
 case 1:$.o6=$.o7=s
 break
-case 2:$.o6=$.o7=s
+case 2:$.o6=$.o7=r
 break
-case 3:$.o6=$.o7=s
+case 3:$.o6=$.o7=r
 break}},
 aap:function aap(a,b){this.a=a
 this.b=b},
@@ -102353,7 +102353,7 @@ B.GK=new A.B3(1,"enabled")
 B.jG=new A.B3(2,"disabled")
 B.GL=new A.Ol(null)
 B.YK=new A.v8(0)
-B.GM=new A.aap(1,"DEV")
+B.GM=new A.aap(2,"STAGING")
 B.jH=new A.qJ(!1,!1,!1,!1)
 B.jI=new A.qJ(!1,!1,!1,!0)
 B.nK=new A.qK(!1,!1,!1,!1)
