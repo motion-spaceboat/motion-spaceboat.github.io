@@ -29398,7 +29398,7 @@ _.a=a
 _.b=b
 _.c=c
 _.d=d},
-aVh(a){var s="http://localhost:8080",r="https://motion-vapor-6dc98add1063.herokuapp.com/"
+aVh(a){var s="http://localhost:8080",r="https://motion-vapor-6dc98add1063.herokuapp.com"
 switch(a.a){case 0:$.og=$.oh=s
 break
 case 1:$.og=$.oh=s
